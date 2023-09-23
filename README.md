@@ -1,4 +1,4 @@
-![logo] (https://github.com/Shreyaanand08/Shreyaanand08/blob/main/github-header-image.png)
+![logo](https://github.com/Shreyaanand08/Shreyaanand08/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shreya Anand</h1>
 
 <h3 align="center">A passionate frontend developer from India.</h3>
